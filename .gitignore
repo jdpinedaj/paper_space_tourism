@@ -1,0 +1,10 @@
+# Document
+document/*
+
+# Scripts
+scripts/*
+
+# Notebooks
+notebooks/*
+!notebooks/eda_v3.html
+!notebooks/eda_v3.ipynb
